@@ -1,0 +1,7 @@
+joblib==1.5.2
+matplotlib==3.10.8
+numpy==2.4.1
+pandas==2.3.3
+pyserial==3.5
+pyshimmer==1.0.1.dev8+ga2ef57586.d20251031
+scipy==1.17.0
